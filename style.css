@@ -38,3 +38,12 @@ body{
 .carousel-placeholder-3{
     background-color: #586ba4;
 }
+
+.carousel-item{
+    height:100vh
+}
+
+#featured-product-carousel{
+     width: 100%;
+     margin: 0 auto
+}
