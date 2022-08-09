@@ -47,3 +47,13 @@ body{
      width: 100%;
      margin: 0 auto
 }
+
+.blockk{
+      color: white;
+      align-content:center;
+      padding: 5%
+}
+
+.block1{
+    background-color: violet;
+}
